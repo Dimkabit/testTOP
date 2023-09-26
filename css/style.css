@@ -189,7 +189,7 @@ h6 {
 }
 
 .select__value::before {
-  content: url(img/icons/planet.svg);
+  content: url(../img/icons/planet.svg);
   -ms-flex-item-align: stretch;
       -ms-grid-row-align: stretch;
       align-self: stretch;
